@@ -1,10 +1,5 @@
 ### **Full-Stack Developer Assignment: Optimized Payments Querying & Listing**  
 
-#### **Objective:**  
-Evaluate your ability to efficiently **query, paginate, and display millions of payment records**, while ensuring optimized database performance and smooth frontend rendering.  
-
----
-
 ## **Task**  
 You will build a **Payment Records Management System** that efficiently lists and queries millions of payment transactions.  
 
@@ -107,5 +102,3 @@ FROM
 - Mention **optimizations** or improvements you made.  
 
 ---
-
-This assignment ensures candidates understand **database optimization, pagination, querying, and frontend performance** when dealing with **large datasets**. Let me know if you want any refinements! 🚀
